@@ -19,9 +19,9 @@
       <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png" alt="Numpy" width="40" height="40"/> </a> 
 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" alt="scikit" width="40" height="40"/> </a> 
-  <a href="https://www.tidyverse.org/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" alt="tidyverse" width="40" height="40" </a> 
-    <a href="https://www.tidymodels.org/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40" </a> 
-  <a href="https://rstudio.github.io/reticulate/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" alt="reticulate" width="40" height="40" </a> 
+  <a href="https://www.tidyverse.org/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" alt="tidyverse" width="40" height="40"/>  </a> 
+    <a href="https://www.tidymodels.org/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40"/>  </a> 
+  <a href="https://rstudio.github.io/reticulate/" target="_blank"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/reticulate.svg" alt="reticulate" width="40" height="40"/>  </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/64px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40"/></a>   
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/256px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="40" height="40"/></a>   
     <a href="http://oracle.com/java/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/></a> </p>
