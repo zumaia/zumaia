@@ -1,6 +1,9 @@
 <h1 align="center">Hi! 🤟 I'm Oscar Rojo</h1>
 <h3 align="center">Data Analyst Junior / Former Bank Employee</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zumaia" alt="zumaia" /> </p>
+
 📌 You can check my [Personal Page](www.oscarrojo.es) where I share my experiences and data science projects 📖 <a href = "mailto: zumaia@gmail.com">Send Email</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -9,6 +12,13 @@
 <a href="https://medium.com/@zumaia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Medium_logo_%282020%29.png/220px-Medium_logo_%282020%29.png" alt="Medium" height="30" width="140" /></a>
 <a href="http://www.oscarrojo.es" target="blank"><img align="center" src="https://shields.io/badge/Blog%20Posts-Proyectos-brightgreen" alt="Oscar Rojo Web-Site" height="30" width="140" /></a>
 </p>
+
+
+## **Language and Tools in Github**
+
+![Top Languages in Github](https://github-readme-stats.vercel.app/api/top-langs/?username=zumaia&theme=radical)
+![Oscar Rojo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zumaia&hide=prs,issues,contribs?username=zumaia&count_private=true?username=zumaia&show_icons=true&theme=radical)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
