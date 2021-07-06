@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumaia" alt="zumaia" /> </p>
 
 ### Find me around:
-- [LinkedIn](https://www.linkedin.com/in/oscar-rojo-martin/) :earth_europe:
-- 📌 You can check my [Personal Page](http://www.oscarrojo.es) 🖐️: where I share my experiences and data science projects.
+- [LinkedIn](https://www.linkedin.com/in/oscar-rojo-martin/) 🌍
+- 📌 You can check my [Personal Page](http://www.oscarrojo.es) 🖐️ where I share my experiences and data science projects.
 - 📖 <a href = "mailto: zumaia@gmail.com">Send Email</a>
 
 <h3 align="left">Connect with me:</h3>
