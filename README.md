@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 🤟 I'm Oscar Rojo</h1>
+<h1 align="center">Hi! 🤟 I'm Oscar Rojo👋 . Welcome to my Profile!!!  </h1>  
 <h3 align="center">Data Analyst Junior / Former Bank Employee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumaia" alt="zumaia" /> </p>
