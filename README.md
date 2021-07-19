@@ -37,11 +37,16 @@
   
 </p>
 
-## **Language and Tools in Github**
+## My GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=zumaia&show_icons=true&theme=gotham" alt="Oscar Rojo" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zumaia&theme=dark" width="48%" >
+
 
 ![Top Languages in Github](https://github-readme-stats.vercel.app/api/top-langs/?username=zumaia&theme=radical)
 ![Oscar Rojo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zumaia&hide=prs,issues,contribs?username=zumaia&count_private=true?username=zumaia&show_icons=true&theme=radical)
 
+## **Language and Tools in Github**
 
 <h3 align="left">Languages and Tools:</h3>
 
