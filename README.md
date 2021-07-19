@@ -4,6 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumaia" alt="zumaia" /> </p>
 
+- 🔭 I am currently working in a Data Quality Team.
+- 🌱 Currently learning : Spark, Scala.
+- 💬 Ask me about: R, Python, SQL.
+- 😄 Pronouns: He/Him.
+- 📫 How to reach me: <a href="mailto:zumaia@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/oscar-rojo-martin/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://medium.com/@zumaia"><img alt="Medium" src="https://img.shields.io/badge/Medium-Medium-lightgrey"></a>
+
 ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/oscar-rojo-martin/) 🌍
 - 📌 You can check my [Personal Page](http://www.oscarrojo.es) 🖐️ where I share my experiences and data science projects.
